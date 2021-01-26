@@ -10,6 +10,7 @@ This is a node-based - visual narrative flow creation tool that uses Unity's Gra
 - Backed by Unity's embedded GraphView api.
 - Support a characters name and Dialogue ID.
 - Support for unique ID for Dialogue search.
+- Multiple line dialogue text support.
 
 ## Usage 
 - Graph generates dialogue saves text, character's name and Dialogue ID into Resources folder as a scriptable objects.
@@ -19,3 +20,10 @@ This is a node-based - visual narrative flow creation tool that uses Unity's Gra
 
 ## DialogueNodeData
 - Dialogue Node Data is holding Dialogue Node's Dialogue Text, Character name, Dialogue ID and node's position data for graph.
+
+## DialogueParser
+- The included script includes full support for all the available features of this Node Dialogue System.
+- And as a bonus to everything else, a built-in effect for writing text for your visual novels or any texts.
+- And like the cherry on the cake, it also includes skipping the letter-by-letter effect when the mouse clicks on the text.
+
+##### 📫 If you have any questions, please contact me by email, and also help us further develop this repository with your suggestions.
